@@ -1,5 +1,8 @@
-streamlit
+fastapi
+uvicorn
 pandas
 scikit-learn
+streamlit
 requests
 yagmail
+python-multipart
